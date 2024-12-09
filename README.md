@@ -1,0 +1,1 @@
+Practica de gestor de tareas con un inicio para iniciar sesion o registrarse, un index donde se ven las tareas con sus diferentes funcionalidades, y grupos con un administrador para poder agregar personas y tareas al grupo

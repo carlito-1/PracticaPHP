@@ -1,0 +1,8 @@
+carlos: 321
+diego :231
+tirso: 123
+ivan : 1234
+esteban : 4321
+antonio : 4231
+//casa
+carlos:1234
